@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsisBuckson
 - 👀 I’m interested in web development and UX/UI
-- 🌱 I’m currently learning web delopment on Odin project
+- 🌱 I’m currently learning web development on Odin project
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
